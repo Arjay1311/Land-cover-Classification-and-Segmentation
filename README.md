@@ -56,9 +56,3 @@ The model leverages **deep learning** and **image processing** techniques to ena
   - **Computer Vision**
 
 ---
-
-Deep Learning (CNNs)
-
-Image Segmentation
-
-Computer Vision

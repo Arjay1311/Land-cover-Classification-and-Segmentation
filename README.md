@@ -19,7 +19,7 @@ The model leverages **deep learning** and **image processing** techniques to ena
 ---
 
 ## **Example Results**
-**
+*<img width="947" height="436" alt="Image" src="https://github.com/user-attachments/assets/927a39c3-731b-465c-8097-2539cb73dbf7" />*
 
 ---
 ## **Implementation Details**

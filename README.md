@@ -1,28 +1,28 @@
-# 🌍 **Land Cover Classification & Segmentation**
+# **Land Cover Classification & Segmentation**
 
 **A deep learning-based system for classifying and segmenting land cover from high-resolution satellite imagery.**
 
 ---
 
-## 📌 **Project Overview**
+## **Project Overview**
 This project implements a **U-Net model** for **land cover classification** using high-resolution satellite images from the **Bhuvan dataset**.  
 The system segments and classifies each pixel into one of **five land cover types**:
 
-- 🌿 **Vegetation**
-- 🏙 **Urban**
-- 🌲 **Forest**
-- 💧 **Water**
-- 🛣 **Roads**
+- **Vegetation**
+- **Urban**
+- **Forest**
+- **Water**
+- **Roads**
 
 The model leverages **deep learning** and **image processing** techniques to enable **accurate semantic segmentation** for geospatial analysis.
 
 ---
 
-IMPLEMENTATION:
+## **Example Results**
+**
 
-<jpeg>
-
-## ⚙️ **Implementation Details**
+---
+## **Implementation Details**
 
 ### **1. Dataset**
 - **Source:** **Bhuvan Dataset** (high-resolution satellite imagery)  
@@ -43,8 +43,8 @@ IMPLEMENTATION:
 ---
 
 
-## 🛠 **Tools & Technologies**
-- **Language:** **Python** 🐍  
+## **Tools & Technologies**
+- **Language:** **Python**  
 - **Libraries & Frameworks:**  
   - **TensorFlow / Keras** (U-Net implementation)  
   - **OpenCV** (image processing)  
